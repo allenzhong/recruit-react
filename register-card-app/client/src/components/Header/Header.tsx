@@ -48,6 +48,7 @@ const Header: React.FC<HeaderProps & React.HTMLAttributes<HTMLElement>> = ({
             className={classes.menuButton}
             color="inherit"
             aria-label="menu"
+            aria-expanded={isMenuShowing}
             role="menu"
             onClick={toggleMenu}
           >
