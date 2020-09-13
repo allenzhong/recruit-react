@@ -52,3 +52,4 @@ Then access http://localhost:3000
 # To be continue
 
 - Integration with Back End API service
+- E2E Tests 
